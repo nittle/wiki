@@ -3,4 +3,4 @@
 - Move nginx into another container
 - Research whether it's better to have several compose.yamls or one
 - Add autopush of the notes repo to github
-- Design a homepage for the host
+- ~~Design a homepage for the host~~
