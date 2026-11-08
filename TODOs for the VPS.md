@@ -1,0 +1,5 @@
+- [ ] Use something better than basic auth(Authelia for example)
+- [ ] Try deploying Bitwarden
+- [ ] Move nginx into another container
+- [ ] Research whether it's better to have several compose.yamls or one
+- [ ] Add autopush of the notes repo to github
