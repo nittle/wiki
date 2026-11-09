@@ -1,0 +1,2 @@
+- Learn about linux permissions to understand (chmod 600 ~/.ssh/config)
+- Learn what is `crontab`
