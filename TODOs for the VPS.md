@@ -2,7 +2,7 @@
 - Try deploying Bitwarden
 - Move nginx into another container
 - Research whether it's better to have several compose.yamls or one
-- Add autopush of the notes repo to github
+- ~~Add autopush of the notes repo to github~~
 - ~~Design a homepage for the host~~
 - Learn about linux permissions to understand (chmod 600 ~/.ssh/config)
 - Learn what is `crontab`
