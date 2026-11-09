@@ -2,4 +2,6 @@ This is a repo with my own notes. Currently hosted with [Gollum](https://github.
 
 [[TODOs for the VPS]]
 
+[[To research]]
+
 [[Mess]]
